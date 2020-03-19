@@ -1,0 +1,5 @@
+Basic Thresholding in Image Processing is an operation to seperate an object from its background.
+In this opeartion each pixel of an image is compared with a threshold value which divides the pixels of input image into two groups.
+1.Pixel Value < Threshold value
+2.Pixel value > Threshold value
+
