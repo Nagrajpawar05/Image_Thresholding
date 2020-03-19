@@ -27,5 +27,5 @@ There are varios types of Thresholding operations available in OpenCv library. I
 2.Gaussian Adaptive Thresholding : Here threshold value is the weighted sum of neighbourhood values where weights are gaussian
                                    window.
 
- "F:\cvg\image processing\Figure_1.png"
+ 
  
