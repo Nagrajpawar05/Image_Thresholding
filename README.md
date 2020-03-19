@@ -13,7 +13,10 @@ There are varios types of Thresholding operations available in OpenCv library. I
          threshold value
      
 4.To_Zero Thresholding:
-         In this type pixel_value < Threshold will get assigned to zero, pixel_value > Threshold value remain unaltered
+         In this type pixel_value < Threshold will get assigned to zero, pixel_value > Threshold value remain unaltered.
+         
+         
+  ![Figure_1](https://user-images.githubusercontent.com/61599110/77090086-b110e080-6a2c-11ea-9e2f-5c4f060711b0.png)  
          
          
  All the above mentioned types corresponds to global thresholding where we should provide the threshold value and this value 
